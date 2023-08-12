@@ -42,3 +42,28 @@ elif(avg3>avg1 and avg3>avg2 and avg3>avg4):
 else:
     print("history has high avg")
 
+
+
+Output:
+
+    student  Math  Science  Englidh  History
+0      rani    45       65       45       79
+1     phani    25       45       45       96
+2     amala    62       89       87       78
+3  gowthami    45       89       95       48
+4      roja    25       56       96       25
+[['rani' 45 65 45 79]
+ ['phani' 25 45 45 96]
+ ['amala' 62 89 87 78]
+ ['gowthami' 45 89 95 48]
+ ['roja' 25 56 96 25]]
+[45 25 62 45 25]
+40.4
+[65 45 89 89 56]
+68.8
+[45 45 87 95 96]
+73.6
+[79 96 78 48 25]
+65.2
+science has high avg
+
