@@ -38,12 +38,10 @@ if _name_ == "_main_":
 
 
 Output:
-Enter the area of the new house: 1234
-Enter the number of bedrooms in the new house: 3
-Enter location : tirupati
-tirupati
-Predicted price for the new house: $284713.49
-Mean Squared Error (MSE): 123358511.45
-Root Mean Squared Error (RMSE): 11106.69
-Mean Absolute Error (MAE): 8711.88
-R-squared (R2): 0.45
+Enter the engine_size: 45
+Enter the horse power: 20
+Enter the fuel efficiency: 80
+The predicted price of the new car is: 49252.01
+Mean Squared Error (MSE): 217996097.18
+Root Mean Squared Error (RMSE): 14764.69
+Mean Absolute Error (MAE): 14764.69
